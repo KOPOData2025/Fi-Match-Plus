@@ -16,3 +16,14 @@
 # ERD
 
 ![ERD](https://raw.githubusercontent.com/NamJihyun99/images/main/ERD-copy.png)
+
+# 개발자
+
+| 구분 | 내용 |
+|------|------|
+|  | <img src="https://raw.githubusercontent.com/NamJihyun99/images/main/남지현.jpg" style="width: 250px;"> |
+| 이름 | 남지현 |
+| 학위 | 숙명여자대학교 컴퓨터과학전공(심화전공)<br/>통계학과 (복수전공) |
+| 스킬 | Java, Spring, RDB, JPA, Javascript, React.js, <br/>Python, FastAPI, SAS, R |
+| 자격증 | 정보처리기사, SQLD |
+| 어학 | TOEIC Speaking 160 |
