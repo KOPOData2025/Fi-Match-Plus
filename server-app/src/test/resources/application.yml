@@ -1,0 +1,34 @@
+spring:
+  profiles:
+    include: secrets
+  datasource:
+    url: jdbc:h2:mem:testdb;MODE=PostgreSQL;DB_CLOSE_DELAY=-1
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+
+  h2:
+    console:
+      enabled: true
+
+    data:
+      mongodb:
+        host: localhost
+        port: 0  # 랜덤 포트 사용 (Embedded MongoDB)
+        database: test_stockone
+
+    mongodb:
+      embedded:
+        version: 6.0.5
+
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    database-platform: org.hibernate.dialect.H2Dialect
+
+ai:
+  prompts:
+    backtest-report:
+      template-file: "classpath:templates/backtest-report-prompt.md"
+    portfolio-optimization:
+      template-file: "classpath:templates/portfolio-optimization-prompt.md"
