@@ -1,12 +1,13 @@
 
-![Image 1](https://github.com/user-attachments/assets/5c129a4d-f2b9-4da7-906a-bec4e0302a69)
+![Image 1](https://raw.githubusercontent.com/NamJihyun99/images/main/1.png)
 
-![Image 2](https://github.com/user-attachments/assets/515e296b-30ac-400d-9856-aebf1c2eff30)
+![Image 2](https://raw.githubusercontent.com/NamJihyun99/images/main/2.png)
 
-![Image 3](https://github.com/user-attachments/assets/e54d5ab5-20a2-438c-bd91-687a5ba47b4e)
+![Image 3](https://raw.githubusercontent.com/NamJihyun99/images/main/3.png)
 
-![Image 4](https://github.com/user-attachments/assets/525fff96-9bef-4fca-9219-3cbc79a6b7c2)
+![Image 4](https://raw.githubusercontent.com/NamJihyun99/images/main/4.png)
 
-![Image 5](https://github.com/user-attachments/assets/9848a652-7709-43ed-92d2-75f48ea2624f)
+![Image 5](https://raw.githubusercontent.com/NamJihyun99/images/main/5.png)
 
-![Image 6](https://github.com/user-attachments/assets/17d430d5-76cf-4436-80f5-c13aadbeb76b)
+![Image 6](https://raw.githubusercontent.com/NamJihyun99/images/main/6.png)
+
